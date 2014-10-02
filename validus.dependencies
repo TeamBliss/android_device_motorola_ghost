@@ -1,8 +1,8 @@
 [
   {
     "remote": "gh",
-    "repository": "CyanogenMod/android_kernel_motorola_ghost",
+    "repository": "DJLaMontagneIII/android_kernel_motorola_ghost",
     "target_path": "kernel/motorola/ghost",
-    "revision": "cm-11.0"
+    "revision": "DJL11"
   }
 ]
